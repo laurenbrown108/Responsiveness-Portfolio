@@ -1,3 +1,7 @@
 body {
   background-image: url("assets/memphis-mini.png");
 }
+
+footer {
+  font-size: 24px;
+}
